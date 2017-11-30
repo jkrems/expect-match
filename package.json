@@ -1,6 +1,6 @@
 {
   "name": "expect-match",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Expect Match",
   "license": "BSD-3-Clause",
   "main": "lib/expect-match.js",
